@@ -1,6 +1,5 @@
 'use client'
 
-import { MousePointer2 } from "lucide-react";
 import { useScroll, useTransform } from "motion/react";
 import { useEffect, useState } from "react";
 import ContactModal from "./components/ContactModal";
@@ -9,8 +8,8 @@ import LuminousTubeCanvas from "./components/LuminousTubeCanvas";
 import Navbar from "./components/Navbar";
 import About from "./components/portfolio/About";
 import Hero from "./components/portfolio/Hero";
-import Skills from "./components/portfolio/Skills.tsx";
 import Projects from "./components/portfolio/Projects";
+import Skills from "./components/portfolio/Skills";
 
 export const THEME = {
   dark: {
