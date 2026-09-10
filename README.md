@@ -1,6 +1,6 @@
 # Laura Simion — Frontend Engineer Portfolio
 
-> **Interfaces that feel simple. Engineering that isn’t.**
+**Interfaces that feel simple. Engineering that isn’t.**
 
 Personal portfolio website showcasing my experience, projects, technical skills, and approach to building modern frontend applications.
 
