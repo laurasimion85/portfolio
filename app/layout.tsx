@@ -24,6 +24,14 @@ export const metadata: Metadata = {
     url: "https://frontend-by-laura-ten.vercel.app",
     siteName: "Laura Portfolio",
     type: "website",
+    images: [
+      {
+        url: "/opengraph-image.png",
+        width: 1536,
+        height: 864,
+        alt: "Laura Simion - Frontend Developer",
+      },
+    ],
   },
 };
 
